@@ -16,7 +16,7 @@ public class Principal {
 			numeros[4]=23;
 		}catch (ArrayIndexOutOfBoundsException e) {
 			// TODO: handle exception
-			System.out.println("Ocurrio un error de desbordamiento de indice en el arreglo");
+			System.out.println("Ocurrio un error de desbordamiento de la indice en el arreglo");
 			System.out.println(e);
 			//numeros[3]=23;			
 		}
