@@ -20,7 +20,7 @@ public class Principal {
 			System.out.println(e);
 			//numeros[3]=23;			
 		}
-		System.out.println("La ejecucion sigue adelante");
+		System.out.println("La ejecucion sigue adelantecon muchas ganas de ver");
 		System.out.println(numeros[0]);
 	}
 
